@@ -155,7 +155,7 @@ const bigProjects = {
     {
       image: require("./assets/images/saayaHealthLogo.jpg"),
       projectName: "Sorting Visualizer",
-      projectDesc: "• Technologies used:- ReactJs ,Redux,React Hooks,HTML,CSS,JavaScript || Sorting Algorithm like Selection,Bubble,Insertion,Merge,Quick",
+      projectDesc: "• Technologies used:- ReactJs ,Redux,React Hooks,HTML,CSS,JavaScript || Sorting Algorithm like Selection,Bubble,Insertion,Merge",
       footerLink: [
         {
           name: "Visit Website",
